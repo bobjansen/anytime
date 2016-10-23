@@ -21,7 +21,3 @@
 getTZ <- function() {
     .pkgenv$tz
 }
-
-setTZ <- function(tz) {
-    assign("tz", tz, envir=.pkgenv)
-}
