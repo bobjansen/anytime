@@ -14,5 +14,5 @@ License: GPL (>= 2)
 Encoding: UTF-8
 Imports: Rcpp
 LinkingTo: Rcpp, BH
-Suggests: gettz
+Suggests: gettz, RUnit
 RoxygenNote: 5.0.1
